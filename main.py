@@ -9,4 +9,5 @@ def div(x,y):
         return 0
     return x/y
 
-
+def mul(x,y):
+    return x*y
