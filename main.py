@@ -19,3 +19,9 @@ def lt(x,y):
     return x<y
 def cadd(x,y):
     return [x[0]+y[0], x[1]+y[1]]
+<<<<<<< HEAD
+=======
+
+def csub(x,y):
+    return [x[0]-y[0], x[1]-y[1]]
+>>>>>>> 20a989d (Add complex sub)
