@@ -11,3 +11,6 @@ def div(x,y):
 
 def mul(x,y):
     return x*y
+
+def pow(x,exp):
+    return x**exp
