@@ -8,5 +8,8 @@ def div(x,y):
         print("error")
         return 0
     return x/y
-
-
+def mul(x,y):
+    prod = 1
+    for i in range(y):
+        prod+=x
+    return prod
