@@ -14,3 +14,6 @@ def mul(x,y):
 
 def pow(x,exp):
     return x**exp
+
+def lt(x,y):
+    return x<y
